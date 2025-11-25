@@ -303,4 +303,3 @@ Feel free to fork this project and submit pull requests for improvements!
 ## 📞 Support
 
 If you encounter any issues or have questions, please open an issue in the repository.
-# Simple Expense Tracker
